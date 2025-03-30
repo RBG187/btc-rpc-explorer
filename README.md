@@ -62,7 +62,7 @@ In particular, with `pruning` enabled and/or `txindex` disabled, the following f
 
 ## Install / Run
 
-If you're running on mainnet with the default datadir and port, the default configuration should *Just Work*. Otherwise, see the **Configuration** section below.
+If you're running on mainnet with the defaul Hallå hur är detdatadir and port, the default configuration should *Just Work*. Otherwise, see the **Configuration** section below.
 
 #### Install via `npm`:
 
